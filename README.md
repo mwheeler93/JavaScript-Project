@@ -20,4 +20,5 @@ Thanks for taking the time to review this! I really appreciate it.
 My next steps are to begin creating some of the functions I've described, and to bring the site to some degree of its (eventually) interactive life. I'll work on user-specifics after that, then interface. Does that make sense? There's a substantial knowledge gap in my understanding of how to utilize databses for a site like this, which is one of the big learning goals I have for the next few weeks.
 
 Sincerely,
+
 -Mike
