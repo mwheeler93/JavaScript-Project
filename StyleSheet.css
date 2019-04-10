@@ -1,4 +1,11 @@
 h1 {
   background-color: blue;
   font-size: 30px;
+  border: groove green;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+body {
+  background-color: rgb(149, 178, 243);
+  margin: 50px;
 }
